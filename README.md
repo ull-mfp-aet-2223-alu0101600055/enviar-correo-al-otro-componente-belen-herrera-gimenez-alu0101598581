@@ -7,6 +7,6 @@ Hola!! Te indico la tarea:
 
 <div style="text-align: center"><img src="https://loremflickr.com/640/480/github" alt="Imagen de GitHub"/></div>
 
-** me han llegado 2 tareas iguales, es ok? 
+**me han llegado 2 tareas iguales, es ok?**
 
 correo enviado a Heber
